@@ -1,0 +1,58 @@
+[
+ {
+   "Surname": "Limbago",
+   "Position": "President",
+   "Pineapples on Pizza": "Yes",
+   "Black Coffee": "No",
+   "Swiftie": "Yes"
+ },
+ {
+   "Surname": "Guerra",
+   "Position": "President",
+   "Pineapples on Pizza": "No",
+   "Black Coffee": "No",
+   "Swiftie": "No"
+ },
+ {
+   "Surname": "Ang",
+   "Position": "Vice President",
+   "Pineapples on Pizza": "Yes",
+   "Black Coffee": "No",
+   "Swiftie": "No"
+ },
+ {
+   "Surname": "Arceo",
+   "Position": "Senator",
+   "Pineapples on Pizza": "No",
+   "Black Coffee": "Yes",
+   "Swiftie": "Yes"
+ },
+ {
+   "Surname": "Jongco",
+   "Position": "Senator",
+   "Pineapples on Pizza": "Yes",
+   "Black Coffee": "Yes",
+   "Swiftie": "Yes"
+ },
+ {
+   "Surname": "Castaneda",
+   "Position": "Mayor",
+   "Pineapples on Pizza": "No",
+   "Black Coffee": "Yes",
+   "Swiftie": "No"
+ },
+ {
+   "Surname": "Cabug",
+   "Position": "Mayor",
+   "Pineapples on Pizza": "Yes",
+   "Black Coffee": "No",
+   "Swiftie": "Yes"
+ },
+ {
+   "Surname": "Ong",
+   "Position": "Vice Mayor",
+   "Pineapples on Pizza": "No",
+   "Black Coffee": "Yes",
+   "Swiftie": "No"
+ }
+]
